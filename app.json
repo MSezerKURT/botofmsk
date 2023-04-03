@@ -20,14 +20,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string."
+      "value": "5779926226:AAG2GMm4eg8PRM5Mh529gXjeQk7v_93HrRU"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1444388846"
+      "value": "1307849296"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "DARK_ANGEL_1234"
+      "value": "MSKSlot_BonusDost"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -35,6 +36,7 @@
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/"
+      "value": "https://mrrasbot.herokuapp.com/"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
